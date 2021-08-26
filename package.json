@@ -11,9 +11,9 @@
     "type": "git",
     "url": ""
   },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
+  "author": "",
+  "license": "ISC",
+  "bugs": {
     "url": ""
   },
   "dependencies": {
